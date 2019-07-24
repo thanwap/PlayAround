@@ -1,0 +1,9 @@
+e:\Programming\PlayAround\src\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+e:\Programming\PlayAround\src\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+e:\Programming\PlayAround\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+e:\Programming\PlayAround\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+E:\Programming\PlayAround\src\Library\bin\Debug\netstandard2.0\Library.deps.json
+E:\Programming\PlayAround\src\Library\bin\Debug\netstandard2.0\Library.dll
+E:\Programming\PlayAround\src\Library\bin\Debug\netstandard2.0\Library.pdb
+E:\Programming\PlayAround\src\Library\obj\Debug\netstandard2.0\Library.dll
+E:\Programming\PlayAround\src\Library\obj\Debug\netstandard2.0\Library.pdb

@@ -1,0 +1,17 @@
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\Library.Tests.deps.json
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\Library.Tests.runtimeconfig.json
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\Library.Tests.runtimeconfig.dev.json
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\Library.Tests.dll
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\Library.Tests.pdb
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\Library.dll
+E:\Programming\PlayAround\test\Library.Tests\bin\Debug\netcoreapp2.2\Library.pdb
+E:\Programming\PlayAround\test\Library.Tests\obj\Debug\netcoreapp2.2\Library.Tests.csprojAssemblyReference.cache
+E:\Programming\PlayAround\test\Library.Tests\obj\Debug\netcoreapp2.2\Library.Tests.csproj.CoreCompileInputs.cache
+E:\Programming\PlayAround\test\Library.Tests\obj\Debug\netcoreapp2.2\Library.Tests.AssemblyInfoInputs.cache
+E:\Programming\PlayAround\test\Library.Tests\obj\Debug\netcoreapp2.2\Library.Tests.AssemblyInfo.cs
+E:\Programming\PlayAround\test\Library.Tests\obj\Debug\netcoreapp2.2\Library.Tests.csproj.CopyComplete
+E:\Programming\PlayAround\test\Library.Tests\obj\Debug\netcoreapp2.2\Library.Tests.dll
+E:\Programming\PlayAround\test\Library.Tests\obj\Debug\netcoreapp2.2\Library.Tests.pdb
