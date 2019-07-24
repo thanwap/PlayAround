@@ -11,11 +11,10 @@ namespace Library
 
             foreach (var grade in grades)
             {
-                if(grade <= 37){
+                if(grade <= 37 || grade % 5 == 0){
                     result.Add(grade);
-                }else if(grade % 5 == 0){
-                    result.Add(grade);
-                }else{
+                }else
+                {
                     var multiNumber = FindMultiNumber(grade);
                     
                     if(multiNumber - grade < 3){
